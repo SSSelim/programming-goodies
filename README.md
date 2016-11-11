@@ -17,3 +17,6 @@ and what other people are using.
 * [Tmux](https://github.com/tmux/tmux)
 
 
+#### Contribute
+Feel free to contribute. Lets say that you are a Ruby programmer and you may
+want to share which tools or libraries are making your life easier and more fun. 
