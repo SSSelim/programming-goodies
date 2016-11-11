@@ -15,7 +15,7 @@ and what other people are using.
 * [Vim](https://github.com/vim/vim)
 * [Guake](https://github.com/Guake/guake)
 * [Tmux](https://github.com/tmux/tmux)
-
+* [TextFiles](http://www.textfiles.com/)
 
 #### Contribute
 Feel free to contribute. Lets say that you are a Ruby programmer and you may
