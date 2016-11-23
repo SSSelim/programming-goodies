@@ -19,6 +19,7 @@ and what other people are using.
 * [Tmux](https://github.com/tmux/tmux)
 * [GNU Stow](https://www.gnu.org/software/stow/)
 * [TextFiles](http://www.textfiles.com/)
+* [SDKMAN](http://sdkman.io/)
 
 ## Java
 * IDE
